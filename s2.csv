@@ -1,0 +1,2 @@
+repo_name,new_commit_id,new_file_path,previous_commit_id,previous_file_path,commit_date,committer_name,committer_email,subject,message
+torvalds/linux,da04b128cf0d74dd4cab270c53d9264e70f9203e,CREDITS,fae6ec69c84d71b1d5bda9ede1a262c1681684aa,CREDITS,2005-06-22 10:19:24 UTC,Jaroslav Kysela,72edd5e1a572f82f059ccbb83c92b74d6cb051ff@petra,Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git,"Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git"
