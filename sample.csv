@@ -1,0 +1,20 @@
+repo_name,new_commit_id,new_file_path,previous_commit_id,previous_file_path,commit_date,committer_name,committer_email,subject,message
+Microsoft/vscode,1628bf01304e9a63bbd8a34fea74a68e37788be1,extensions/clojure/syntaxes/Clojure.tmLanguage,fa614d82f051808994aaecd3235fa7519cb1f171,extensions/clojure/syntaxes/Clojure.tmLanguage,2015-11-20 22:23:54 UTC,lucas.lra@gmail.com,edadd4723f419e622cd1465d26e754d8e0d55d48@GITH,- Included some Clojure Extensions - Included one Powershell Extension - Included some Csharp Keywords - Reorganization of the language.main.js define call (To match the folders order),"- Included some Clojure Extensions
+- Included one Powershell Extension
+- Included some Csharp Keywords
+- Reorganization of the language.main.js define call (To match the folders order)
+"
+torvalds/linux,da04b128cf0d74dd4cab270c53d9264e70f9203e,arch/i386/kernel/syscall_table.S,2a5a68b840cbab31baab2d9b2e1e6de3b289ae1e,arch/i386/kernel/syscall_table.S,2005-06-22 10:19:24 UTC,Jaroslav Kysela,72edd5e1a572f82f059ccbb83c92b74d6cb051ff@petra,Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git,"Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git
+"
+torvalds/linux,da04b128cf0d74dd4cab270c53d9264e70f9203e,fs/xfs/xfs_trans_inode.c,2a5a68b840cbab31baab2d9b2e1e6de3b289ae1e,fs/xfs/xfs_trans_inode.c,2005-06-22 10:19:24 UTC,Jaroslav Kysela,72edd5e1a572f82f059ccbb83c92b74d6cb051ff@petra,Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git,"Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git
+"
+torvalds/linux,da04b128cf0d74dd4cab270c53d9264e70f9203e,arch/ppc/boot/simple/Makefile,fae6ec69c84d71b1d5bda9ede1a262c1681684aa,arch/ppc/boot/simple/Makefile,2005-06-22 10:19:24 UTC,Jaroslav Kysela,72edd5e1a572f82f059ccbb83c92b74d6cb051ff@petra,Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git,"Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git
+"
+torvalds/linux,da04b128cf0d74dd4cab270c53d9264e70f9203e,fs/isofs/dir.c,fae6ec69c84d71b1d5bda9ede1a262c1681684aa,fs/isofs/dir.c,2005-06-22 10:19:24 UTC,Jaroslav Kysela,72edd5e1a572f82f059ccbb83c92b74d6cb051ff@petra,Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git,"Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git
+"
+torvalds/linux,da04b128cf0d74dd4cab270c53d9264e70f9203e,fs/xfs/quota/xfs_quota_priv.h,fae6ec69c84d71b1d5bda9ede1a262c1681684aa,fs/xfs/quota/xfs_quota_priv.h,2005-06-22 10:19:24 UTC,Jaroslav Kysela,72edd5e1a572f82f059ccbb83c92b74d6cb051ff@petra,Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git,"Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git
+"
+torvalds/linux,da04b128cf0d74dd4cab270c53d9264e70f9203e,arch/m32r/Kconfig,fae6ec69c84d71b1d5bda9ede1a262c1681684aa,arch/m32r/Kconfig,2005-06-22 10:19:24 UTC,Jaroslav Kysela,72edd5e1a572f82f059ccbb83c92b74d6cb051ff@petra,Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git,"Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git
+"
+torvalds/linux,da04b128cf0d74dd4cab270c53d9264e70f9203e,CREDITS,fae6ec69c84d71b1d5bda9ede1a262c1681684aa,CREDITS,2005-06-22 10:19:24 UTC,Jaroslav Kysela,72edd5e1a572f82f059ccbb83c92b74d6cb051ff@petra,Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git,"Merge with rsync://rsync.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git
+"
